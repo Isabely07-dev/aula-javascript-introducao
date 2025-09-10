@@ -24,3 +24,6 @@ console.log("Sobrenome: ", sobrenome)//escreva("Sobrenome: ", sobrenome)
 console.log("Idade: ", idade)//escreva("Idade: ", idade)
 console.log("Altura: ", altura)//escreva("Altura: ", altura)
 console.log("É aluno? ", ehAluno)//escreva("É aluno? ", ehAluno)
+
+
+console.log(`Nome: ${nome} ${sobrenome}, Idade: ${idade}, Altura: ${altura}, Além de tudo é aluno = ${ehAluno}`)
